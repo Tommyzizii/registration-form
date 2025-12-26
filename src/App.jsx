@@ -156,8 +156,8 @@ function App() {
         <h4>Role</h4>
         <select value={role} onChange={onRoleChange}>
           <option value="general staff">General Staff</option>
-          <option value="admin">Admin</option>
-          <option value="manager">Manager</option>
+          <option value="developer">Developer</option>
+          <option value="system analyst">System Analyst</option>
         </select>
 
         <hr />
